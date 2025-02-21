@@ -17,5 +17,4 @@ This project showcases the integration of computer vision and deep learning to a
 
 -Provide an interactive experience for detecting emotions dynamically.  
 
-This project can serve as a foundation for AI-powered emotion analysis applications in fields such as customer sentiment analysis, mental health monitoring, 
-and human-computer interaction.
+This project can serve as a foundation for AI-powered emotion analysis applications in fields such as customer sentiment analysis, mental health monitoring, and human-computer interaction & For a better understanding of the system's functionality, refer to the output screenshots uploaded in this repository.
